@@ -7,7 +7,7 @@ This repository contains a comprehensive implementation and simulation environme
 ## Features
 
 ### Core Protocol Implementation
-- **ADUP Protocol**: Advanced distance-vector routing protocol with enhanced metrics
+- **ADUP Protocol**: Advanced diffusion update routing protocol with enhanced metrics
 - **Multi-Armed Bandit (MAB)**: Intelligent successor selection algorithm
 - **Dynamic Adaptation**: Real-time adaptation to network changes
 - **Fast Convergence**: Optimized convergence detection and recovery
