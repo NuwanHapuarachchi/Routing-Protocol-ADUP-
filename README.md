@@ -1,8 +1,8 @@
 # ADUP Routing Protocol Implementation
 
-## Advanced Distance-based Unified Protocol (ADUP)
+## Advanced Diffusion Update Routing Protocol (ADUP)
 
-This repository contains a comprehensive implementation and simulation environment for the ADUP (Advanced Distance-based Unified Protocol) routing protocol, featuring dynamic network adaptation, multi-path analysis, and real-time visualization capabilities.
+This repository contains a comprehensive implementation and simulation environment for the ADUP ( Advanced Diffusion Update Routing Protocol) routing protocol, featuring dynamic network adaptation, multi-path analysis, and real-time visualization capabilities.
 
 ## Features
 
